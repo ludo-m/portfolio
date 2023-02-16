@@ -11,7 +11,7 @@ image:
   caption: The Walking House
   focal_point: Smart
   
-url_pdf: "static/progetti/walking-house.pdf"
+url_pdf: "progetti/walking-house.pdf"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
