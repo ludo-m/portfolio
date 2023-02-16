@@ -3,8 +3,6 @@
 # Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: contact
 
-active: true
-
 # This file represents a page section.
 headless: true
 
@@ -12,7 +10,7 @@ headless: true
 weight: 50
 
 title: Contatti
-subtitle:
+subtitle: ''
 
 content:
   # Automatically link email and phone or display as text?
