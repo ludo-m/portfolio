@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Ludovica Massa
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Interior Designer'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🖌️
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sono una interior designer e progettista HO.RE.CA.
 
 #interests:
 #- Artificial Intelligence
@@ -44,13 +44,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:massaludovica09@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/ludovica-massa-289b3021a/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -58,16 +55,14 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ludovica Massa è un' interior designer pugliese di 23 anni. E' una persona intraprendente e decisa, appassionata fin da piccola al mondo dell'arredo e della progettazione. Ho intrapreso un percorso di studi in un'accademia privata a Bari per acquisire conoscenze sull'ideazione di locali privati e pubblici nella loro totalità (arredo, impiantistica e sviluppo di render). Successivamente, ho potuto utilizzare queste conoscenze nel campo lavorativo grazie alle diverse esperienze di stage, seguite poi da un contratto di apprendistato.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Consulta{{< /staticref >}} il mio curriculum in PDF per maggiori informazioni.
