@@ -30,10 +30,11 @@ experience:
     date_start: '2020-09-07'
     date_end: '2020-10-15'
     description: |2-
-      * • Rilievi architettonici
-      * • Progettazione e rendering di appartamenti e singole stanze • Allestimento vetrine
-      * • Riorganizzazione spazi dello showroom
-      * • Approccio diretto col cliente
+      * Rilievi architettonici
+      * Progettazione e rendering di appartamenti e singole stanze 
+      * Allestimento vetrine
+      * Riorganizzazione spazi dello showroom
+      * Approccio diretto col cliente
 
   - title: Progettista di interni
     company: "Petroli Russo+ Architettura Design"
@@ -42,7 +43,11 @@ experience:
     location: 'Via Vincenzo Cuoco, 1/B, Bari, Italia'
     date_start: '2021-06-03'
     date_end: '2021-06-24'
-    description: ''
+    description: |2-
+      * Progettazione e rendering di appartamenti 
+      * Progettazione di impianti
+      * Rilevi architettonici
+      * Sopralluoghi su cantiere
 
   - title: Progettista di interni
     company: "Arch. Maria Loreta Gravina"
@@ -51,7 +56,10 @@ experience:
     location: 'San Giovanni Rotondo, Italia'
     date_start: '2021-06-01'
     date_end: '2021-08-01'
-    description: ''
+    description: |2-
+      * Progettazione di abitazioni private e facciate di palazzi pubblici e privati
+      * Rilievo architettonico
+      * Primo approccio con il cliente
 
   - title: Progettista di interni
     company: "Calzavara Arredamenti S.A.S"
@@ -60,7 +68,12 @@ experience:
     location: 'Via XXV Aprile, 166, Cavaria Con Premezzo, Italia'
     date_start: '2021-12-01'
     date_end: '2023-03-01'
-    description: ''
+    description: |2-
+      * Progettazione e rendering di spazi abitativi tramite il software ARREDOCAD
+      * Approccio e fidelizzazione del cliente
+      * Vendita di arredo e complementi d'arredo 
+      * Rilievi architettonici
+      * Sviluppo di impianti elettrici
 
 design:
   columns: '1'
