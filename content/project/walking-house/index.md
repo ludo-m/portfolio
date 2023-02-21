@@ -2,7 +2,7 @@
 title: The Walking House
 summary: Modulo abitativo trasportabile
 # tags:
-date: "2019"
+date: "2020-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
