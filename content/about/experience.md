@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Esperienza
+title: Esperienza Lavorativa
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+  - title: Progettista di interni
+    company: Il Chiodo S.R.L.
+    company_url: 'http://www.ilchiododesign.it/'
+    company_logo: ''
+    location: 'Viale Luigi Einaudi, 99, Bari, Italia'
+    date_start: '2020-09-07'
+    date_end: '2020-10-15'
+    description: ''
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Progettista di interni
+    company: "Petroli Russo+ Architettura Design"
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: 'Via Vincenzo Cuoco, 1/B, Bari, Italia'
+    date_start: '2021-06-03'
+    date_end: '2021-06-24'
+    description: ''
+
+  - title: Progettista di interni
+    company: "Arch. Maria Loreta Gravina"
+    company_url: ''
+    company_logo: ''
+    location: 'San Giovanni Rotondo, Italia'
+    date_start: '2021-06-01'
+    date_end: '2021-08-01'
+    description: ''
+
+  - title: Progettista di interni
+    company: "Calzavara Arredamenti S.A.S"
+    company_url: 'https://www.arredamenticalzavara.com'
+    company_logo: ''
+    location: 'Via XXV Aprile, 166, Cavaria Con Premezzo, Italia'
+    date_start: '2021-12-01'
+    date_end: '2023-03-01'
+    description: ''
 
 design:
   columns: '1'

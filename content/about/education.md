@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Tecnico Di Progettazione Di Interni
+  - title: Tecnico di progettazione di interni
     company: IDEAcademy
     company_url: 'https://www.ideacademy.it'
     company_logo: ''
