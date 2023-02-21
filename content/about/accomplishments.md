@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: "attestati/qualifica.pdf"
   date_end: ''
-  date_start: 2021-12-09'
+  date_start: '2021-12-09'
   description: 'Attestato di qualifica professionale: Tecnico della progettazione di interni - Interior Design'
   organization: Regione Puglia
   organization_url: ''
