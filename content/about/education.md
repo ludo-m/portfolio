@@ -34,11 +34,11 @@ experience:
     date_end: '2020'
     description: ''
 
-  - title: Responsabile della progettazione e realizzazione di spazi per l'HO.RE.CA.
+  - title: "Responsabile della progettazione e realizzazione di spazi per l'HO.RE.CA."
     company: IDEAcademy
     company_url: 'https://www.ideacademy.it'
     company_logo: ''
-    location: Via Melo, 229, Bari, Italia
+    location: "Via Melo, 229, Bari, Italia"
     date_start: '2020'
     date_end: '2021'
     description: ''
@@ -47,7 +47,7 @@ experience:
     company: CAPAC
     company_url: 'https://www.capac.it'
     company_logo: ''
-    location: Viale Murillo, 17, Milano, Italia
+    location: "Viale Murillo, 17, Milano, Italia"
     date_start: '2021-11-08'
     date_end: '2022-10-16'
     description: ''
