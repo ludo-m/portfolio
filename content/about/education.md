@@ -17,7 +17,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -48,8 +48,8 @@ experience:
     company_url: 'https://www.capac.it'
     company_logo: ''
     location: "Viale Murillo, 17, Milano, Italia"
-    date_start: '2021-11-08'
-    date_end: '2022-10-16'
+    date_start: '2021'
+    date_end: '2022'
     description: ''
 
 design:
