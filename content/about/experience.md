@@ -29,7 +29,11 @@ experience:
     location: 'Viale Luigi Einaudi, 99, Bari, Italia'
     date_start: '2020-09-07'
     date_end: '2020-10-15'
-    description: ''
+    description: |2-
+      * • Rilievi architettonici
+      * • Progettazione e rendering di appartamenti e singole stanze • Allestimento vetrine
+      * • Riorganizzazione spazi dello showroom
+      * • Approccio diretto col cliente
 
   - title: Progettista di interni
     company: "Petroli Russo+ Architettura Design"
