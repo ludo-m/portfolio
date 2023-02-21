@@ -30,8 +30,8 @@ experience:
     company_url: 'https://www.ideacademy.it'
     company_logo: ''
     location: Via Melo, 229, Bari, Italia
-    date_start: '2018-01-01'
-    date_end: '2020-01-01'
+    date_start: '2018-09-01'
+    date_end: '2020-07-01'
     description: ''
 
   - title: "Responsabile della progettazione e realizzazione di spazi per l'HO.RE.CA."
@@ -39,8 +39,8 @@ experience:
     company_url: 'https://www.ideacademy.it'
     company_logo: ''
     location: "Via Melo, 229, Bari, Italia"
-    date_start: '2020-01-01'
-    date_end: '2021-01-01'
+    date_start: '2020-09-01'
+    date_end: '2021-07-01'
     description: ''
 
   - title: "Corso IFTS: \"Tecnico della gestione commerciale dell'arredamento: Interior Designer\""
