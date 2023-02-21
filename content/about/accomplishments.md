@@ -30,7 +30,9 @@ item:
   organization: 'Regione Puglia'
   organization_url: ''
   title: 'Tecnico della progettazione di interni - Interior Design'
-  url_pdf: "attestati/qualifica.pdf"
+  links:
+    - name: "Attestato"
+      url: "attestati/qualifica.pdf"
 
 - certificate_url: ''
   date_end: ''
@@ -39,7 +41,9 @@ item:
   organization: 'Regione Puglia'
   organization_url: ''
   title: "Responsabile della progettazione e realizzazione di spazi per l'HO.RE.CA."
-  url: ''
+  links:
+    - name: "Attestato"
+      url: "attestati/horeca.pdf"
   # - certificate_url: https://www.coursera.org
   #   date_end: ''
   #   date_start: '2021-01-25'
