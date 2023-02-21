@@ -23,22 +23,23 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 'attestati/qualifica.pdf'
-  date_end: '2021-12-09'
+- certificate_url: ''
+  date_end: ''
   date_start: '2021-12-09'
   description: 'Attestato di qualifica professionale: Tecnico della progettazione di interni - Interior Design'
   organization: 'Regione Puglia'
   organization_url: ''
   title: 'Tecnico della progettazione di interni - Interior Design'
-  url: 'attestati/qualifica.pdf'
-- certificate_url: 'attestati/horeca.pdf'
-  date_end: '2021-12-09'
+  url_pdf: "attestati/qualifica.pdf"
+
+- certificate_url: ''
+  date_end: ''
   date_start: '2021-02-11'
   description: "Attestato di qualifica professionale: Responsabile della progettazione e realizzazione di spazi per l'HO.RE.CA."
   organization: 'Regione Puglia'
   organization_url: ''
   title: "Responsabile della progettazione e realizzazione di spazi per l'HO.RE.CA."
-  url: 'attestati/horeca.pdf'
+  url: ''
   # - certificate_url: https://www.coursera.org
   #   date_end: ''
   #   date_start: '2021-01-25'
